@@ -1,0 +1,8 @@
+x,y=(17,4)
+print(x)
+print(y)
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x%y)
